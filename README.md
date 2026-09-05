@@ -1,6 +1,6 @@
-# HTML-CSS
+# David Gilmour : A Short Story
 
-This section will cover some of my work around HTML and CSS.
-I will explain all the ideas around the projects, the difficulties and what i learned in the process
+This was my first school project back in 2022.
+The idea was to learn the fundamentals of HTML & CSS by creating different HTML pages.
 
-* ## David Gilmour : A Short Story
+You can download the project above but I will explain the different step of creating those pages.
